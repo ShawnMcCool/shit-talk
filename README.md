@@ -1,6 +1,8 @@
 shit-talk
 =========
 
+[video example](https://www.youtube.com/watch?v=leicyB2k22c)
+
 A bare-bones project to bring google's speech-to-text to my desktop.
 
 
